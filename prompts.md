@@ -14,6 +14,7 @@
 
 * noem de microbrouwerij Vocatus Microbreweries
 
+* gebruik ook de woorden circulair en intergenerationeel
 
 ## output
 
